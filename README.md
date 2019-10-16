@@ -1,2 +1,3 @@
 # hacker_rank_30_days
- hackerRank 30 days of code
+ my study notes / exercise solutions for hackerRank 30 days of code
+ 
