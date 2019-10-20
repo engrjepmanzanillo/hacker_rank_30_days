@@ -1,7 +1,7 @@
 {
   "editor.defaultFormatter": "ms-python.python",
   "editor.formatOnSave": true,
-  "python.pythonPath": "D:\\Program Files\\Python38\\python.exe",
+  "python.pythonPath": "/bin/python3.8",
   "editor.foldingStrategy": "indentation",
   "editor.autoIndent": false
 }
